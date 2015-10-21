@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   
   <head>
@@ -14,7 +15,7 @@
   <body>
     <div class="section">
       <div class="container">
-        <div class="row">
+        <div class align="center"="row">
           <a href="http://www.gifmania.com.pt/Walt-Disney/Personagens-Disney/Pato-Donald/Tio-Patinhas/"
           target="_blank"><img src="http://www.gifmania.com.pt/Walt-Disney/Personagens-Disney/Pato-Donald/Tio-Patinhas/Tio-Patinhas-26362.gif" alt="Tio Patinhas - GIFMANIA"></a>&gt;</div>
       </div>

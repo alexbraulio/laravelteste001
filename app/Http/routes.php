@@ -2,7 +2,7 @@
 Route::get('/', function () {
     return view('home');
 });
-oute::get('/dentro', function () {
+Route::get('/dentro', function () {
     return view('dentro');
 });
 
