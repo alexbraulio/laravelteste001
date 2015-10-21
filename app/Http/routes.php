@@ -1,11 +1,10 @@
 <?php
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
-<?php
 Route::get('/ola', function () {
-    return view('home');
+    return view('welcome');
 });
 
 Route::get('/home', function () {
